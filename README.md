@@ -2,10 +2,8 @@
 
 
 Let me introduce myself, and give a litle of context about what I'm doing now, what I did before and other things.. 
-
-I'm Lucas Bicalho, a curious guy that loves to learn new things, to play drums, to listening music and study new languages.
-
-I'm native of **portuguese**, and am continuously improving my **english (B2-C1)**, **spanish (B1)**, and **Dutch (A1)** (this is for fun!)
+My name is Lucas Bicalho, and I consider myself a curious soul with a deep passion for learning. I find great joy in exploring new subjects, playing the drums, immersing myself in music, and delving into the study of different languages.
+As a native Portuguese speaker (🇧🇷), I'm continuously striving to improve my English skills, aiming for a level between B2 and C1. Additionally, I've ventured into the realm of Spanish, currently at a B1 level, and I've even taken up Dutch at an introductory A1 level — just for fun!
 
 
 ## What I do now
