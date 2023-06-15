@@ -10,7 +10,7 @@ I'm native of **portuguese**, and am continuously improving my **english (B2-C1)
 
 ## What I do now
 
-Progress OpenEdge developer since March 2019. Using PDSOE, PASOE, WebSpeed, GUI, RESTFul APIs (JSON/XML), designing database tables, fields and indexes. 
+Progress OpenEdge developer since *March 2019*. Using `PDSOE`, `PASOE`, `WebSpeed`, `GUI`, `RESTFul APIs (JSON/XML)`, and designing `database tables`. 
 
 ## What I did before
 
