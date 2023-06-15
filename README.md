@@ -5,7 +5,7 @@ Let me introduce myself, and give a litle of context about what I'm doing now, w
 
 I'm Lucas Bicalho, a curious guy that loves to learn new things, to play drums, to listening music and study new languages.
 
-I'm native of `portuguese`, and am continuously improving my `english - B2`, `spanish - A2`, and `Dutch - A1` (this is for fun!)
+I'm native of **portuguese**, and am continuously improving my **english (B2-C1)**, **spanish (B1)**, and **Dutch (A1)** (this is for fun!)
 
 
 ## What I do now
