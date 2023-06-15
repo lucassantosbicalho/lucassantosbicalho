@@ -2,8 +2,10 @@
 
 
 Let me introduce myself, and give a litle of context about what I'm doing now, what I did before and other things.. 
+
 My name is Lucas Bicalho, and I consider myself a curious soul with a deep passion for learning. I find great joy in exploring new subjects, playing the drums, immersing myself in music, and delving into the study of different languages.
-As a native Portuguese speaker (🇧🇷), I'm continuously striving to improve my English skills, aiming for a level between B2 and C1. Additionally, I've ventured into the realm of Spanish, currently at a B1 level, and I've even taken up Dutch at an introductory A1 level — just for fun!
+
+As a native Portuguese speaker, I'm continuously striving to improve my English skills, aiming for a level between B2 and C1. Additionally, I've ventured into the realm of Spanish, currently at a B1 level, and I've even taken up Dutch at an introductory A1 level — just for fun!
 
 
 ## What I do now
@@ -12,7 +14,7 @@ Progress OpenEdge developer since *March 2019*. Using `PDSOE`, `PASOE`, `WebSpee
 
 ## What I did before
 
-With a degree in Statistics, I large professional experience with database modelling (ETL and data warehouse), querying, develop business intelligence solutions, data analysis and act in solving complex problems. 
+With a degree in Statistics, I have large professional experience with database modelling (ETL and data warehouses), creating queries, developing business intelligence solutions, data analysis and solving complex problems. 
 
 ## Others
 
