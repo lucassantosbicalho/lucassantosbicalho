@@ -57,11 +57,6 @@ With a degree in Statistics, I have large professional experience with database 
 ![](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
 ![](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 
-#
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lucassantosbicalho&theme=dark)
-
-#
 
 ### Connect with me:
 
