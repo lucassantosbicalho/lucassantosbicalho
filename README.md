@@ -19,8 +19,8 @@ With a degree in Statistics, I have large professional experience with database 
 ## Others
 
  - [Interview with Progress Corporation](https://www.progress.com/blogs/this-29-year-old-developer-broadening-progress-openedge-knowledge-free-training)
- - Backend developer of [Hey Buddy!](heybuddyapp.com.br).
- - VBA Personal Financial App, made in 2015: [Real Controle](https://github.com/lucassantosbicalho/real_controle)
+ - Backend developer of [Hey Buddy!](https://www.heybuddyapp.com.br/). 
+ - VBA Personal Financial App, made in 2015: [Real Controle](https://github.com/lucassantosbicalho/real_controle) (I'm currently rewriting it in Progress OpenEdge)
 
 
 #
