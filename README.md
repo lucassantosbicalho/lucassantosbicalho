@@ -14,9 +14,9 @@ As a drummer and music enthusiast, I'm also diving into music composition using 
 - Software development and integration bewteen systems
 - CI/CD concepts and development best practices
 
-## Professional experience with
+## Professional experience:
 
-### Langs
+### Technologies
 ![](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  ![](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white) ![](https://badges.aleen42.com/src/java.svg) ![](https://badges.aleen42.com/src/node.svg) ![](https://badges.aleen42.com/src/javascript.svg) ![https://img.shields.io/badge/OpenEdge-11.7%2B-lightgrey](https://img.shields.io/badge/OpenEdge-11.7%2B-lightgrey?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAEpUExURf///1zkAFzkAFzkAFzkAFzkAFzkAFzkAFzkAFzkAFzkAFzkAFzkAFzkAFzkAFzkAFzkAFzkAFzkAFzkAFzkAFzkAFzkAFzkAFzkAFzkAFzkAFzkAFzkAFzkAFzkAFzkAFzkAFzkAFzkAFzkAFzkAFzkAFzkAFzkAFzkAFzkAFzkAFzkAFzkAFzkAFzkAFzkAFzkAFzkAFzkAFzkAFzkAFzkAFzkAFzkAFzkAFzkAFzkAFzkAFzkAFzkAFzkAFzkAFzkAFzkAFzkAFzkAFzkAFzkAFzkAFzkAFzkAFzkAFzkAFzkAFzkAFzkAFzkAFzkAFzkAFzkAFzkAFzkAFzkAFzkAFzkAFzkAFzkAFzkAFzkAFzkAFzkAFzkAFzkAFzkAFzkAFzkAP///yh6pRoAAABhdFJOUwAADa2ZZvrtTTXZxiIQlQSl9Gp69eNAc7oYD6mFMtfzPEbDXpcSsc8qg5R7oAoXtgZdaT7h3UgUryCYN9smnIY4H9p8KRpEvJGJO43471MLo+uILdOoDr3HLgErSzARNJDDeN7tAAAAAWJLR0QAiAUdSAAAAAd0SU1FB+cGDwobEKmgOkQAAAEmSURBVDjLhdNnW8IwEAfwnBUQF8iy4kYFxYUTNygWxYEIgnvc9/8StmktuTSWe9P8n+f3NJf2whiI1af1kwyMERAIIoYG/gXhQeQ1NKwEIxq6NRrxgiiKNRbzgHiCCEymPD2MU4H6hNxkelIiU55jTs9QMTvngvlMgD8XQkQsOmApa4bcMicrIsjbYNWJa+uW2NikoLCVdHNwm79kZ1cEKbLp3j4nurhF8YCQzKEJjmgPxyeEnAKcUQBQEkFZAeBc74KwCpjTcNEDAFR6gUs/YJT9QRWjfsC4Qrz2ATVrqQbW776xl2oQM0Hx9k4C7pe8r9sj99Ag4DHtgGZ3aFtPmP8D7Q5w8GyQsa81bfDyyqOGVfnivAG8Y+LDSZ9fqsv7/VMAudgvkga9krZqJpoAAAAldEVYdGRhdGU6Y3JlYXRlADIwMjMtMDYtMTVUMTA6Mjc6MTYrMDA6MDDdAqCeAAAAJXRFWHRkYXRlOm1vZGlmeQAyMDIzLTA2LTE1VDEwOjI3OjE2KzAwOjAwrF8YIgAAACh0RVh0ZGF0ZTp0aW1lc3RhbXAAMjAyMy0wNi0xNVQxMDoyNzoxNiswMDowMPtKOf0AAAAASUVORK5CYII=) ![](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 
 
@@ -34,7 +34,7 @@ As a drummer and music enthusiast, I'm also diving into music composition using 
 ![](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 
 
-### Cloud
+### Clouds
 ![](https://img.shields.io/badge/Google_Cloud_Platform-4285F4?style=flat&logo=google-cloud&logoColor=white)
 ![](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat&logo=azure-devops&logoColor=white)
 
